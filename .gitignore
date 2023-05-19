@@ -1,0 +1,9 @@
+
+\.idea/**
+
+src/samples/syncpy_out-**
+*.pyc
+
+noPublish/
+
+*.session
